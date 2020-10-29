@@ -17,6 +17,8 @@ This repo covers some of my research work pursued at University of Waterloo (201
 
 **Robotics and Self Driving Car Implementations**
 
+**Excercises from Deep Learning. Ai specialization assignments **
+
 ## Usage
 
 Much of the implementations are still WIP (will update soon)
